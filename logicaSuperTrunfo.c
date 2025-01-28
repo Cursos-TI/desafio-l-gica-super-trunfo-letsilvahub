@@ -1,12 +1,18 @@
 #include <stdio.h>
-
+Estado: A
+Codigo da Carta: A01
+Nome da Cidade: São Paulo
+População: 12325000
+Área: 1521.11km²
+Pib: 699.28 bilhões de reais
+Numeros de Pontos Turístico: 50    
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
-    // Definição das variáveis para armazenar as propriedades das cidades
+    // Definição das variáveis para armazenar as propriedades das cidadea
     // Você pode utilizar o código do primeiro desafio
 
     
