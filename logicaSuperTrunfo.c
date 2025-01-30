@@ -6,12 +6,20 @@ População: 12325000
 Área: 1521.11km²
 Pib: 699.28 bilhões de reais
 Numeros de Pontos Turístico: 50    
-// Desafio Super Trunfo - Países
+
+Estado: B
+Codigo da Carta: B02
+Nome da Cidade: Rio de Janeiro
+População: 6729894
+Área: 1200km²
+Pib: 1,15 trilhões de reais
+Numeros de Pontos Turístico: 58
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+    printf("
     // Definição das variáveis para armazenar as propriedades das cidadea
     // Você pode utilizar o código do primeiro desafio
 
