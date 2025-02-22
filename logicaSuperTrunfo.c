@@ -1,19 +1,19 @@
 #include <stdio.h>
-Estado: A
-Codigo da Carta: A01
-Nome da Cidade: São Paulo
-População: 12325000
-Área: 1521.11km²
-Pib: 699.28 bilhões de reais
-Numeros de Pontos Turístico: 50    
+Char Estado: A
+Char Codigo da Carta: A01
+Char Nome da Cidade: São Paulo
+Int População: 12325000
+Float Área: 1521.11km²
+Float Pib: 699.28 bilhões de reais
+Int Numeros de Pontos Turístico: 50    
 
-Estado: B
-Codigo da Carta: B02
-Nome da Cidade: Rio de Janeiro
-População: 6729894
-Área: 1200km²
-Pib: 1,15 trilhões de reais
-Numeros de Pontos Turístico: 58
+Char Estado: B
+Char Codigo da Carta: B02
+Char Nome da Cidade: Rio de Janeiro
+Int População: 6729894
+Float Área: 1200km²
+Float Pib: 1,15 trilhões de reais
+Int Numeros de Pontos Turístico: 58
 // Tema 2 - Comparação das Cartas
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
