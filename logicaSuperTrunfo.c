@@ -18,10 +18,41 @@ Int Numeros de Pontos Turístico: 58
 // Este código inicial serve como base para o desenvolvimento do sistema de comparação de cartas de cidades. 
 // Siga os comentários para implementar cada parte do desafio.
 
-int main() {
-    printf("
-    // Definição das variáveis para armazenar as propriedades das cidadea
-    // Você pode utilizar o código do primeiro desafio
+int main() { 
+    print("qual o estado? \n");
+    scanf("%c", &estado);
+
+    printf("qual o codigo? \n");
+    scanf("%s", &codigo);
+
+    printf("qual o cidade? \n");
+    scanf("%s", &cidade);
+
+    printf("qual o populacao? \n");
+    scanf("%i", &populacao);
+    
+    printf("qual o area? \n");
+    scanf("%f", &area);
+
+    printf("qual o PIB? \n");
+    scanf("%f", &PIB);
+
+    printf("numeros de pontos turistico? \n");
+    scanf("%i", &numeros de pontos turistico);
+
+    printf("Estado: %c \n", estado);
+    printf("Codigo: %s \n", codigo);
+    printf("Nome da Cidade: &s \n", cidade);
+    printf("Populacao: &i habitantes \n", populacao);
+    printf("Area: %f km² \n", area);
+    printf("PIB: &f bilhoes de reais);
+    printf("Pontos turisticos: %i \n", pontos);
+    
+  // Definição das variáveis para armazenar as propriedades das cidadea
+ // Você pode utilizar o código do primeiro desafio
+
+
+    
 
     
     // Cadastro das Cartas:
